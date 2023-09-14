@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c41e4e46","path":"/views/java/springboot/","title":"\u70ED\u52A0\u8F7D","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"views/java/springboot/README.md"}');export{e as data};
